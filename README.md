@@ -1,3 +1,4 @@
 # test-demo
-Repo Github Demo test 
-New line from Github WebGUI.
+Repo GitHub Demo Test
+New line from GitHub WebGUI.
+New line from locat git repo.
